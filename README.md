@@ -12,3 +12,4 @@ This is an attempt to solve Advent of Code challenges using Microsoft Excel.
 |Day 1: Sonar Sweep|[Solution](Day1.xlsx)|
 |Day 2: Dive!|[Solution](Day2.xlsx)|
 |Day 3: Binary Diagnostic|[Solution](Day3.xlsx)|
+|Day 4: Giant Squid|[Solution](Day4.xlsx)|
