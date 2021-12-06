@@ -14,3 +14,4 @@ This is an attempt to solve Advent of Code challenges using Microsoft Excel.
 |Day 3: Binary Diagnostic|[Solution](Day3.xlsx)|
 |Day 4: Giant Squid|[Solution](Day4.xlsx)|
 |Day 5: Hydrothermal Venture|[Solution](Day5.xlsx.zip)|
+|Day 6: Lanternfish|[Solution](Day6.xlsx)|
