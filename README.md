@@ -2,7 +2,8 @@
 This is an attempt to solve Advent of Code challenges using Microsoft Excel.
 
 # How to use
-- Gray cell is where you'll need to paste input.
+- Dark Gray cell is where you'll need to paste input.
+- Light Gray cells are generated when running macro.
 - Blue cell is the answer for part 1.
 - Gold cell is the answer for part 2.
 
@@ -17,3 +18,4 @@ This is an attempt to solve Advent of Code challenges using Microsoft Excel.
 |Day 6: Lanternfish|[Solution](Day6.xlsx)|
 |Day 7: The Treachery of Whales|[Solution](Day7.xlsx.7z)|
 |Day 8: Seven Segment Search|[Solution](Day8.xlsx)|
+|Day 9: Smoke Basin|[Solution](Day9.xlsm)|
