@@ -19,3 +19,4 @@ This is an attempt to solve Advent of Code challenges using Microsoft Excel (and
 |Day 7: The Treachery of Whales|[Solution](Day7.xlsx.7z)|Excel|
 |Day 8: Seven Segment Search|[Solution](Day8.xlsx)|Excel|
 |Day 9: Smoke Basin|[Solution](Day9.xlsm)|Excel+Macro|
+|Day 10: Syntax Scoring|[Solution](Day10.xlsx)|Excel|
