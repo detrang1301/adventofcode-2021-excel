@@ -22,3 +22,4 @@ This is an attempt to solve Advent of Code challenges using Microsoft Excel (and
 |Day 10: Syntax Scoring|[Solution](Day10.xlsx)|Excel|
 |Day 11: Dumbo Octopus|[Solution](Day11.xlsx)|Excel|
 |Day 12: Passage Pathing|[Solution](Day12.xlsm)|Macro|
+|Day 13: Transparent Origami|[Solution](Day13.xlsx)|Excel|
