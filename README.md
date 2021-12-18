@@ -27,3 +27,4 @@ This is an attempt to solve Advent of Code challenges using Microsoft Excel (and
 |Day 15: Chiton|[Solution](Day15.xlsm)|Macro|
 |Day 16: Packet Decoder|[Solution](Day16.xlsm)|Excel+Macro|
 |Day 17: Trick Shot|[Solution](Day17.xlsx)|Excel|
+|Day 18: Snailfish|[Solution](Day18.xlsm)|Macro|
