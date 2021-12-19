@@ -28,3 +28,4 @@ This is an attempt to solve [Advent of Code 2021 challenges](https://adventofcod
 |[Day 16: Packet Decoder](https://adventofcode.com/2021/day/16)|[Solution](Day16.xlsm)|Excel+Macro|
 |[Day 17: Trick Shot](https://adventofcode.com/2021/day/17)|[Solution](Day17.xlsx)|Excel|
 |[Day 18: Snailfish](https://adventofcode.com/2021/day/18)|[Solution](Day18.xlsm)|Macro|
+|[Day 19: Beacon Scanner](https://adventofcode.com/2021/day/19)|[Solution](Day19.xlsm)|Macro|
