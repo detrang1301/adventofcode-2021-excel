@@ -30,3 +30,4 @@ This is an attempt to solve [Advent of Code 2021 challenges](https://adventofcod
 |[Day 18: Snailfish](https://adventofcode.com/2021/day/18)|[Solution](Day18.xlsm)|Macro|
 |[Day 19: Beacon Scanner](https://adventofcode.com/2021/day/19)|[Solution](Day19.xlsm)|Macro|
 |[Day 20: Trench Map](https://adventofcode.com/2021/day/20)|[Solution](Day20.xlsx.7z.001)|Excel|
+|[Day 21: Dirac Dice](https://adventofcode.com/2021/day/21)|[Solution](Day21.xlsm)|Excel+Macro|
