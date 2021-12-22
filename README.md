@@ -31,3 +31,4 @@ This is an attempt to solve [Advent of Code 2021 challenges](https://adventofcod
 |[Day 19: Beacon Scanner](https://adventofcode.com/2021/day/19)|[Solution](Day19.xlsm)|Macro|
 |[Day 20: Trench Map](https://adventofcode.com/2021/day/20)|[Solution](Day20.xlsx.7z.001)|Excel|
 |[Day 21: Dirac Dice](https://adventofcode.com/2021/day/21)|[Solution](Day21.xlsm)|Excel+Macro|
+|[Day 22: Reactor Reboot](https://adventofcode.com/2021/day/22)|[Solution](Day22.xlsm)|Macro|
